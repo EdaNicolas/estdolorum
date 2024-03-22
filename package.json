@@ -1,0 +1,34 @@
+{
+  "name": "estdolorum",
+  "version": "1.0.0",
+  "description": "ECIES encrypt/decrypt library for Ethereum",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "eaque",
+    "asperiores",
+    "dolor",
+    "qui"
+  ],
+  "author": "OrrinFrami",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdaNicolas/estdolorum.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "elliptic": "^6.5.4",
+    "safe-buffer": "^5.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "ethereumjs-util": "^7.1.0",
+    "mocha": "^9.1.0"
+  },
+  "bugs": {
+    "url": "https://github.com/EdaNicolas/estdolorum.git/issues"
+  },
+  "homepage": "https://github.com/EdaNicolas/estdolorum.git"
+}
